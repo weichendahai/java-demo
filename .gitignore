@@ -1,6 +1,5 @@
 .idea
 .git
-target
 .DS_Store
 common-utils/target
 taotao-manager/taotao-manager-pojo/target
